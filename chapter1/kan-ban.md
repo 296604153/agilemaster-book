@@ -14,3 +14,5 @@
 ![](/assets/o_1cq0q0nldbk7at108gutta6s2c.png)
 
 输入变更后的名称按Enter键完成修改
+
+### 看板标示
