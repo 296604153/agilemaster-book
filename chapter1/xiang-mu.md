@@ -27,5 +27,8 @@
 
 ![](/assets/o_1cq0nngvr10a1vbs1meu1d7n17rpv.png)
 
+在项目菜单中，点击带下划线的任务名称可打开任务查看详情。
+
+
 
 
