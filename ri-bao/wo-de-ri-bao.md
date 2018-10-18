@@ -20,3 +20,9 @@
 ![](/assets/o_1cq2m8flp16op11pdmm01poc1ntpj.png)
 
 点击上图红框按钮，进入编辑模式，修改后点击`发布`按钮保存
+
+**筛选**
+
+![](/assets/o_1cq2mdu791jfik10pugms91bj0o.png)
+
+如上图，点击红框日期，可选择任意时间为起始时间查看日报
