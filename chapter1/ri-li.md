@@ -11,4 +11,8 @@
 
 ![](/assets/o_1cq2jbi3216td1db61pjs1nhl1ls01c.png)
 
-日历中可点中某一天然后拖动至结束日期，这是会以第一次点中日期为开始拖动截止日期为截止日
+日历中可点中某一天然后拖动至结束日期，这是会以第一次点中日期为开始拖动截止日期为截止日，如下图
+
+![](/assets/o_1cq2kasrn1vh31p6a3b426ngl1j.png)
+
+![](/assets/o_1cq2kasrn1vbu1e4hltceeo1pqm1i.png)
