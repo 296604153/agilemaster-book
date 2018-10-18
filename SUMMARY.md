@@ -9,7 +9,7 @@
 * [日报](ri-bao.md)
   * [我的日报](ri-bao/wo-de-ri-bao.md)
   * [他人日报](ri-bao/ta-ren-ri-bao.md)
-  * 日报统计
+  * [日报统计](ri-bao/ri-bao-tong-ji.md)
 * [计划报告](ji-hua-bao-gao.md)
   * 我的计划报告
   * 计划报告统计
