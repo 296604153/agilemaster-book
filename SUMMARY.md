@@ -8,7 +8,7 @@
 * [日历](chapter1/ri-li.md)
 * [日报](ri-bao.md)
   * [我的日报](ri-bao/wo-de-ri-bao.md)
-  * 他人日报
+  * [他人日报](ri-bao/ta-ren-ri-bao.md)
   * 日报统计
 * [计划报告](ji-hua-bao-gao.md)
   * 我的计划报告
