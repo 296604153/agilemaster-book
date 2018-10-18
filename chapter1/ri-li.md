@@ -16,3 +16,5 @@
 ![](/assets/o_1cq2kasrn1vh31p6a3b426ngl1j.png)
 
 ![](/assets/o_1cq2kasrn1vbu1e4hltceeo1pqm1i.png)
+
+日历中任务信息编辑与看板中的编辑一致，[点击查看](/chapter1/ren-wu-xiang-qing.md)
