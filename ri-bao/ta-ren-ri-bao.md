@@ -4,6 +4,10 @@
 **筛选**
 可按日期、人员、部门筛选查看日报
 
+日期
+
 ![](/assets/o_1cq2ptarc1fu514chd6o187u1dhav.png)
+
+其他条件
 
 ![](/assets/o_1cq2ptarc1lhmdjaivi2in1clcu.png)
