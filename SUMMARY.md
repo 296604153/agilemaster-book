@@ -7,7 +7,7 @@
   * [任务详情](chapter1/ren-wu-xiang-qing.md)
 * [日历](chapter1/ri-li.md)
 * [日报](ri-bao.md)
-  * 我的日报
+  * [我的日报](ri-bao/wo-de-ri-bao.md)
   * 他人日报
   * 日报统计
 * [计划报告](ji-hua-bao-gao.md)
