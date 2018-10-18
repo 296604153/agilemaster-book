@@ -3,3 +3,7 @@
 
 **筛选**
 可按日期、人员、部门筛选查看日报
+
+![](/assets/o_1cq2ptarc1fu514chd6o187u1dhav.png)
+
+![](/assets/o_1cq2ptarc1lhmdjaivi2in1clcu.png)
