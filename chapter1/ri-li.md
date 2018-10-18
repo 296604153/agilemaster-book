@@ -18,3 +18,6 @@
 ![](/assets/o_1cq2kasrn1vbu1e4hltceeo1pqm1i.png)
 
 日历中任务信息编辑与看板中的编辑一致，[点击查看](/chapter1/ren-wu-xiang-qing.md)
+
+**日历任务拖动**
+日历中，任务可拖动，拖动任务只会变更截止日期到拖动日期
