@@ -22,6 +22,8 @@
 
 **文件夹创建**
 
+点击下图红框按钮（不显示标示无操作权限）
+
 ![](/assets/o_1cq58o9o313a52uinv762l1smir.png)
 
 ![](/assets/o_1cq58o9o31vjc1j8913uh1bqpk6ns.png)
