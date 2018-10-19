@@ -19,5 +19,5 @@
   * [我提交的](shen-pi/wo-ti-jiao-de.md)
 * [应用管理](ying-yong-guan-li.md)
   * [成员设置](ying-yong-guan-li/cheng-yuan-she-zhi.md)
-  * 角色与权限
+  * [角色与权限](ying-yong-guan-li/jiao-se-yu-quan-xian.md)
 
