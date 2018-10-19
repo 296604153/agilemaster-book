@@ -16,7 +16,7 @@
   * [项目资料库](nei-bu-zi-liao-ku/xiang-mu-zi-liao-ku.md)
 * [审批](shen-pi.md)
   * [我审批的](shen-pi/wo-shen-pi-de.md)
-  * 我提交的
+  * [我提交的](shen-pi/wo-ti-jiao-de.md)
 * [应用管理](ying-yong-guan-li.md)
   * [成员设置](ying-yong-guan-li/cheng-yuan-she-zhi.md)
   * 角色与权限
