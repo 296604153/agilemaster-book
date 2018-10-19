@@ -11,8 +11,6 @@
   * [他人日报](ri-bao/ta-ren-ri-bao.md)
   * [日报统计](ri-bao/ri-bao-tong-ji.md)
 * [计划报告](ji-hua-bao-gao.md)
-  * [我的计划报告](ji-hua-bao-gao/wo-de-ji-hua-bao-gao.md)
-  * [计划报告统计](ji-hua-bao-gao/ji-hua-bao-gao-tong-ji.md)
 * [资料库](nei-bu-zi-liao-ku.md)
   * [内部资料库](nei-bu-zi-liao-ku/nei-bu-zi-liao-ku.md)
   * [项目资料库](nei-bu-zi-liao-ku/xiang-mu-zi-liao-ku.md)
