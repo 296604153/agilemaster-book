@@ -26,7 +26,7 @@
 
 ![](/assets/o_1cq58o9o313a52uinv762l1smir.png)
 
-输入内容，按Enter键即可保存
+输入内容，按Enter键即可保存，当前文件夹创建者为文件夹管理员
 
 ![](/assets/o_1cq58o9o31vjc1j8913uh1bqpk6ns.png)
 
