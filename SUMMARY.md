@@ -14,7 +14,6 @@
 * [资料库](nei-bu-zi-liao-ku.md)
   * [内部资料库](nei-bu-zi-liao-ku/nei-bu-zi-liao-ku.md)
   * [项目资料库](nei-bu-zi-liao-ku/xiang-mu-zi-liao-ku.md)
-  * [权限设置](nei-bu-zi-liao-ku/quan-xian-she-zhi.md)
 * [审批](shen-pi.md)
   * 我审批的
   * 我提交的
