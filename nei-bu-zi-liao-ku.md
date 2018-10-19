@@ -26,7 +26,7 @@
 
 ![](/assets/o_1cq5bf1eo1v0m14kv4r1jlm1gvf1e.png)
 
-下图红框中展示文件版本信息，可点击主版本按钮设置
+下图红框中展示文件版本信息，可点击主版本按钮设置某个版本为主版本
 
 ![](/assets/o_1cq5gcgte1oon9njd81ema1jcr9.png)
 
