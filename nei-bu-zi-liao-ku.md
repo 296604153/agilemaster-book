@@ -9,7 +9,9 @@
 - 当前文件夹可编辑可删除：可上传下载，编辑文件夹和删除文件（当前文件夹下所有文件）
 
 **文件上传**
+![](/assets/o_1cq58b30914961k8t1988lfq1jomg.png)
 
+![](/assets/o_1cq58bjpfci8vt0lkbjsef7cl.png)
 
 
 **文件夹创建**
